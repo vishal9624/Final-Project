@@ -3,6 +3,6 @@ resource "aws_vpc" "main" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "demo"
+    Name = "Final-project-vpc"
   }
 }
