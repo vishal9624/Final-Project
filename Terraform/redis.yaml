@@ -1,0 +1,10 @@
+resources:
+    limits: {}
+      CPU : 200M
+      memory : 200MI
+
+auth :
+  enabled : false
+
+
+      
